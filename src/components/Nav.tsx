@@ -15,9 +15,8 @@ const Nav = (props: Props) => {
       <header className="flex flex-col items-center justify-center w-full">
         <nav className="flex items-center justify-between w-full pt-3 mb-10">
           <Link href="/" className="flex gap-2 flex-center">
-            <Image src="/assets/logo.png" width={80} height={80} alt="logo" className="object-contain" />
+            <span>Back to PDF Reader</span>
           </Link>
-
         </nav>
       </header>
     </React.Fragment>

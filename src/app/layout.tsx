@@ -7,10 +7,10 @@ import Nav from "@components/Nav";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Summarizer",
+  title: "Inspiron",
   description: "Make summary from URL",
   icons: {
-    icon: "./assets/favicon.ico",
+    icon: "/favicon.ico",
   },
 };
 
