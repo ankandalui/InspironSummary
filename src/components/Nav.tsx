@@ -15,7 +15,7 @@ const Nav = (props: Props) => {
       <header className="flex flex-col items-center justify-center w-full">
         <nav className="flex items-center justify-between w-full pt-3 mb-10">
           <Link
-            href="https://inspiroy.vercel.app/"
+            href="https://inspiroy.vercel.app/dashboard"
             className="flex gap-2 flex-center"
           >
             <span>Back to PDF Reader</span>
