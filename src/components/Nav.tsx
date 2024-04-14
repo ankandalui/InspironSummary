@@ -14,7 +14,10 @@ const Nav = (props: Props) => {
     <React.Fragment>
       <header className="flex flex-col items-center justify-center w-full">
         <nav className="flex items-center justify-between w-full pt-3 mb-10">
-          <Link href="/" className="flex gap-2 flex-center">
+          <Link
+            href="https://inspiroy.vercel.app/"
+            className="flex gap-2 flex-center"
+          >
             <span>Back to PDF Reader</span>
           </Link>
         </nav>
